@@ -1,0 +1,44 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "0648fb0f-4516-4c1a-9d06-5bb4076ce884",
+        "line": 6,
+        "version": 1,
+        "index": 274
+      }
+    ],
+    "commands/Admin/purge.js": [
+      {
+        "id": "1bf7b9b4-c4aa-49c2-9fec-a96dc17c7cec",
+        "line": 19,
+        "version": 1,
+        "index": 709
+      }
+    ],
+    "commands/General/calculator test.js": [
+      {
+        "id": "b373e538-b795-4385-9366-36ef413fb2da",
+        "line": 17,
+        "version": 1,
+        "index": 294
+      }
+    ],
+    "commands/Image/comment.js": [
+      {
+        "id": "1f82be9b-b81a-4b30-a115-f78725522226",
+        "line": 16,
+        "version": 32,
+        "index": 476
+      }
+    ],
+    "node.sh": [
+      {
+        "id": "7771c4b6-e583-49b2-a878-344295099457",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
